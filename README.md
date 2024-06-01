@@ -134,8 +134,7 @@ The model obtained is of Keras type.
 
 
 <h3> • Results </h3>
-
-| ![image](https://user-images.githubusercontent.com/111730373/203130577-7caa7c9c-1fcc-4efd-8d62-4c847c28fd3e.png) |   
+  
 | :--------------------------------------------------------------------------------------------------------------: |
 |                                                  A                                                               |
 
