@@ -1,0 +1,12 @@
+# The provided text
+text = """
+ a s d f g ; l k j h a s d f g ; l k j h a s d f g ; l k j h a s d f  g ; l k j h a s d f g ; l k j h a s d f g ; l k j h a s d f g ; l k j h ;a s d f g ;l k jh  a s d f g ; k l j h a s d f g ; l k j h a s f d g ; l k j h a s d f g ; l k j h a s d f g ; l k j h a s d f  ; l k j h a s d f g  ; l k j h a s d f ; l k j h a s d f g  ; l k j h a s d f g ; l k j h a s d f g ; l k j h a s d f g ; l k j h a s d g ; l k k j h a s d f g ;  l k j h a s d f g ; l k j h a s d g ; l k j h a s d f g ; l k j h a s d  f ; l k j h a s d f  g ; l k j h  a s d f g ; l k j h a s d f g ; l k j h a s d f g ; l k j h a s d f g; l k j h a s d f g  ; l k j h a s d f g ; l k j h a s d f  g k;l k j h a s d f f g ; l k j h a s d f g ; l k j h a s d f g ; l k j h a s d g ; l k j h a s d f g ; l k j h a s d f g ; l k j h a s d f g ; l k j  h a s d f g ; l k j h a s d f  g ; l k j h a s d f g ; l k j h a s d f g ; l k j h a s d f g        ; a s d f g ; l k j h a s d f g ; l lk  j h a sd f ; l k j h a ss d f g ; l k j h a s
+"""
+
+# The sequence to find
+pattern = "a s d f g ; l k j h "
+
+# Count the occurrences of the pattern in the text
+count = text.count()
+
+print("The sequence 'a s d f g ; l k j h' appears", count, "times in the provided text.")
